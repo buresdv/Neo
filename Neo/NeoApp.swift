@@ -8,9 +8,12 @@
 import SwiftUI
 
 @main
-struct NeoApp: App {
-    var body: some Scene {
-        WindowGroup {
+struct NeoApp: App
+{
+    var body: some Scene
+    {
+        WindowGroup
+        {
             ContentView()
         }
     }

@@ -33,6 +33,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		63C643E02A00226300230759 /* Logic */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Logic;
+			sourceTree = "<group>";
+		};
+		63C643E12A00226900230759 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		63C643E22A00226F00230759 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		63C643E32A00227300230759 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		63C643E42A00227C00230759 /* Enums */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Enums;
+			sourceTree = "<group>";
+		};
+		63C643E52A00228000230759 /* Styles */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Styles;
+			sourceTree = "<group>";
+		};
 		63DC26B42A0021C2003F1EE0 = {
 			isa = PBXGroup;
 			children = (
@@ -52,6 +94,12 @@
 		63DC26BF2A0021C2003F1EE0 /* Neo */ = {
 			isa = PBXGroup;
 			children = (
+				63C643E52A00228000230759 /* Styles */,
+				63C643E42A00227C00230759 /* Enums */,
+				63C643E32A00227300230759 /* Models */,
+				63C643E22A00226F00230759 /* Extensions */,
+				63C643E12A00226900230759 /* Views */,
+				63C643E02A00226300230759 /* Logic */,
 				63DC26C02A0021C2003F1EE0 /* NeoApp.swift */,
 				63DC26C22A0021C2003F1EE0 /* ContentView.swift */,
 				63DC26C42A0021C4003F1EE0 /* Assets.xcassets */,
